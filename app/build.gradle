@@ -133,7 +133,7 @@ dependencies {
     implementation "org.eclipse.jdt:ecj:3.26.0"
     implementation 'javax.xml.stream:stax-api:1.0-2'
 
-    implementation "com.github.Netsnake-TN:kotlinc-for-sketchware:be94f7954d"
+    implementation "com.github.Netsnake-TN:kotlinc-for-sketchware:ba26da7a0a"
     compileOnly "org.jetbrains.kotlin:kotlin-compiler:2.1.21"
     implementation 'io.github.itsaky:nb-javac-android:17.0.0.3'
     implementation 'com.fasterxml.woodstox:woodstox-core:7.1.1'
